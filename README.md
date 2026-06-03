@@ -15,10 +15,10 @@ I’m continuously learning and improving my skills in both **design** and **dev
 ---
 
 ### Projects  
-- IC Vote(Institute of Computing Voting Management System)
-- EcoClean Hub(Barangay Sanitation Management Website)
-- Aquamart(Aquatic Market Place Website)
-- Capstone Document Finder(Document Finder Application)
+- IC Vote (Institute of Computing Voting Management System)
+- EcoClean Hub (Barangay Sanitation Management Website)
+- Aquamart (Aquatic Market Place Website)
+- Capstone Document Finder (Document Finder Application)
 
 ---
 
