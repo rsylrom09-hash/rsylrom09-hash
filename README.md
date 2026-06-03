@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Rob Sylrom Quema  
+#  Hi!, I'm Rob Sylrom Quema  
 
  **Second Year BSIT Student**  
 Davao Del Norte State College  
