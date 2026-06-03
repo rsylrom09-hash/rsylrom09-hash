@@ -1,16 +1,51 @@
-## Hi there 👋
+# 👋 Hi, I'm Rob Sylrom Quema  
 
-<!--
-**rsylrom09-hash/rsylrom09-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Second Year BSIT Student**  
+📍 Davao Del Norte State College  
+💻 Front-End Developer | 🎨 Graphics Designer  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me  
+
+I am a passionate **Front-End Developer** and **Graphic Designer** currently working as a graphic designer while also developing web and app interfaces. I enjoy creating visually appealing designs and turning them into functional, responsive applications.  
+
+I’m continuously learning and improving my skills in both **design** and **development** to build better user experiences.
+
+---
+
+## 🛠️ Tools & Technologies  
+
+### 🎨 Design Tools  
+- Adobe Photoshop  
+- Adobe Premiere Pro  
+- Adobe InDesign  
+- Canva  
+- Figma  
+
+### 💻 Development Tools  
+- VS Code  
+- Cursor  
+- Git  
+
+### 🌐 Front-End Technologies  
+- React  
+- Tailwind CSS  
+- Bootstrap  
+
+### 💡 Programming Languages  
+- JavaScript  
+- Java  
+- PHP  
+- HTML / CSS  
+- Python  
+
+---
+
+## 📫 Contact Me  
+
+📧 Email: **rsylrom09@gmail.com**  
+
+---
+
+⭐ *“Design is not just what it looks like and feels like. Design is how it works.”* 
