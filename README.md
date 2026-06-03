@@ -1,19 +1,19 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Rob+Sylrom+Quema+%F0%9F%91%8B;Front-End+Developer+%7C+Graphic+Designer;Turning+Pixels+Into+Functional+Experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Rob+Sylrom+Quema!+;Front-End+Developer+%7C+Graphic+Designer;Turning+Pixels+Into+Functional+Experiences" alt="Typing SVG" />
   <br>
-  <img src="https://img.shields.io/badge/🎓_BSIT_Student-Davao_Del_Norte_State_College-2B78E4?style=for-the-badge&logo=github" alt="University" />
-  <img src="https://img.shields.io/badge/💻_Front--End-React%20%7C%20Tailwind%20%7C%20Bootstrap-61DAFB?style=for-the-badge&logo=react" alt="Frontend" />
-  <img src="https://img.shields.io/badge/🎨_Design-Figma%20%7C%20Photoshop%20%7C%20Premiere%20Pro-FF5F56?style=for-the-badge&logo=figma" alt="Design" />
+  <img src="https://img.shields.io/badge/_BSIT_Student-Davao_Del_Norte_State_College-2B78E4?style=for-the-badge&logo=github" alt="University" />
+  <img src="https://img.shields.io/badge/_Front--End-React%20%7C%20Tailwind%20%7C%20Bootstrap-61DAFB?style=for-the-badge&logo=react" alt="Frontend" />
+  <img src="https://img.shields.io/badge/_Design-Figma%20%7C%20Photoshop%20%7C%20Premiere%20Pro-FF5F56?style=for-the-badge&logo=figma" alt="Design" />
 </div>
 
 ---
 
-### 🧑‍💻 About Me
-I bridge the gap between **pixels and code**. Currently working as a graphic designer while building responsive, user-friendly web & app interfaces. I thrive on crafting visually compelling designs and transforming them into smooth, functional digital experiences. Always learning, always iterating. 🚀
+### About Me
+I bridge the gap between **pixels and code**. Currently working as a graphic designer while building responsive, user-friendly web & app interfaces. I thrive on crafting visually compelling designs and transforming them into smooth, functional digital experiences. Always learning, always iterating. 
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### Tech Stack & Tools
 <div align="center">
   <table>
     <tr>
@@ -54,15 +54,13 @@ I bridge the gap between **pixels and code**. Currently working as a graphic des
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| 🗳️ **[IC Vote](#)** | Institute of Computing Voting Management System | Java |
-| 🌿 **[EcoClean Hub](#)** | Barangay Sanitation Management Website | HTML/CSS, JS, Bootstrap, Laravel, PHP |
-| 🐟 **[Aquamart](#)** | Aquatic Market Place Website | React, Tailwind, HTML/CSS, Laravel, PHP |
-| 📄 **[Capstone Doc Finder](#)** | Document Finder Application | Java |
-
-> 💡 *Replace `#` with your actual GitHub repo or live demo links.*
+|  **[IC Vote](#)** | Institute of Computing Voting Management System | Java |
+|  **[EcoClean Hub](#)** | Barangay Sanitation Management Website | HTML/CSS, JS, Bootstrap, Laravel, PHP |
+|  **[Aquamart](#)** | Aquatic Market Place Website | React, Tailwind, HTML/CSS, Laravel, PHP |
+|  **[Capstone Doc Finder](#)** | Document Finder Application | Java |
 
 ---
 
